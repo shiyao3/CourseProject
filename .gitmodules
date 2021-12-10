@@ -1,0 +1,3 @@
+[submodule "BrowserExtension"]
+	path = BrowserExtension
+	url = https://github.com/cedzo2/BrowserExtension.git
